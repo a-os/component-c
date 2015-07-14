@@ -1,0 +1,20 @@
+{
+  "name": "component-c",
+  "version": "0.0.0",
+  "homepage": "https://github.com/a-os/component-c",
+  "main": "script.js",
+  "license": "MPL",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests",
+    "examples",
+    "LICENSE",
+    "README.md"
+  ],
+  "dependencies": {
+    "component-d": "a-os/component-d"
+  }
+}
