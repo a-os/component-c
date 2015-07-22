@@ -15,6 +15,6 @@
     "README.md"
   ],
   "dependencies": {
-    "component-d": "a-os/component-d"
+    "component-b": "a-os/component-d#0.0.4"
   }
 }
